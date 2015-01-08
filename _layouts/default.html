@@ -8,6 +8,11 @@
     <div class="post p2 p-responsive wrap" role="main">
       <div class="measure">
         {{ content }}
+        {% if page.no_duoshuo %}
+        <!-- we don't need duoshuo -->
+        {% else %}
+        {% include duoshuo.html %}
+        {%endif%}
       </div>
     </div>
   </div>

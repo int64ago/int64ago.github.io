@@ -1,16 +1,18 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       程序猿__int64Ago
+email:       int64ago@gmail.com
+author:      Cody Chan
+description: "程序猿__int64Ago -- Keep It Simple, Stupid!"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://int64ago.org"
+
+duoshuo: int64ago
 
 # Google analytics
 google_analytics:
 
 # Optional features
-animated:           false
+animated:           true
 show_related_posts: false
 show_post_footers:  false
 
@@ -20,7 +22,7 @@ disqus_shortname:
 
 # Social icons
 show_social_icons: false
-github_username:
+github_username: int64ago
 stackoverflow_id:
 twitter_username:
 google_plus_id:
@@ -32,8 +34,8 @@ flattr_button:
 # Build settings
 markdown:     redcarpet
 redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+  extensions: ['smart', 'tables', 'with_toc_data', 'autolink', 'hard_wrap']
 permalink:    pretty
-paginate:     3
+paginate:     8
 sass:
   compressed: true

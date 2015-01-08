@@ -14,7 +14,7 @@
 */
 
 body {
-  font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+    font-family: "Merriweather", "PT Serif", Georgia, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 }
 
 html, body {
@@ -58,8 +58,8 @@ body {
 }
 
 .site-header a {
-  color: #333;
-  font-weight: 300;
+  font-weight: bold;
+  font-size: 2rem;
 }
 
 .site-header nav a {
@@ -68,9 +68,9 @@ body {
 }
 
 .site-header nav a:hover {
-  color: #444;
+  color: #12BD67;
   opacity: 1;
-  border-bottom: 2px solid #444;
+  border-bottom: 2px solid #12BD67;
 }
 
 .site-nav a + a {
@@ -177,7 +177,7 @@ table {
 .pagination,
 .button {
   font-size: 1rem;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   font-weight: 300;
   text-align: center;
 }
@@ -198,7 +198,7 @@ table {
 }
 
 .pagination a:hover, .pagination a:focus {
-  background: white;
+  background: #12BD67;
   color: #477dca;
 }
 
@@ -240,7 +240,7 @@ table {
 }
 
 form {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   font-weight: 300;
   font-size: 1rem;
 }
@@ -261,7 +261,7 @@ abbr {
 }
 
 pre, code {
-  font-family: Menlo, Monaco, "Courier New", monospace
+  font-family: Menlo, Monaco, "Courier New", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 }
 
 code {
@@ -270,7 +270,7 @@ code {
 
 pre {
   padding: 1.125em;
-  font-size: 1.125rem;
+  font-size: 1rem;
   line-height: 1.11;
   overflow-x: scroll;
   margin-bottom: 0.88em;
@@ -307,7 +307,7 @@ h5,
 .h5,
 h6,
 .h6 {
-  font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: "Lato", 'Helvetica Neue', Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   font-weight: 900;
   line-height: 1.2;
   margin: 1em 0 0.5em;
@@ -315,7 +315,7 @@ h6,
 
 .social-icons {
     padding: 0.5em 0 0 0;
-    font-size: 1.25rem;
+    font-size: 1rem;
     width: 100%;
 }
 .social-icons a.fa {
@@ -345,28 +345,28 @@ h6,
 
   .h1,
   h1 {
-    font-size: 3.250rem;
+    font-size: 2.3rem;
   }
 
   .h2,
   h2 {
-    font-size: 2.298rem;
+    font-size: 2rem;
   }
 
   .h3,
   h3 {
-    font-size: 1.625rem;
+    font-size: 1.8rem;
   }
 
   .h4,
   h4 {
-    font-size: 1.150rem;
+    font-size: 1.2rem;
   }
 
   .p,
   p,
   li {
-    font-size: 1.25rem;
+    font-size: 1rem;
     line-height: 1.8;
   }
 
@@ -404,17 +404,17 @@ h6,
 
   .h1,
   h1 {
-    font-size: 2.827rem;
+    font-size: 2rem;
   }
 
   .h2,
   h2 {
-    font-size: 1.999rem;
+    font-size: 1.8rem;
   }
 
   .h3,
   h3 {
-    font-size: 1.413rem;
+    font-size: 1.3rem;
   }
 
   .h4,
@@ -447,22 +447,22 @@ h6,
 @media screen and (min-width: 64em) {
   .h1,
   h1 {
-    font-size: 4.498rem;
+    font-size: 2.3rem;
   }
 
   .h2,
   h2 {
-    font-size: 3.18rem;
+    font-size: 2rem;
   }
 
   .h3,
   h3 {
-    font-size: 2.249rem;
+    font-size: 1.8rem;
   }
 
   .h4,
   h4 {
-    font-size: 1.591rem;
+    font-size: 1.2rem;
   }
 
   .posts .post-meta {
@@ -494,7 +494,7 @@ footer,
 footer .wrap {
   color: #7a7a7a;
   background-color: #fafafa;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   font-weight: 300;
   clear: both;
 }
@@ -565,4 +565,10 @@ Copyright (c) 2014 Daniel Eden
 .fade-in-down {
   -webkit-animation-name: fadeInDown;
           animation-name: fadeInDown;
+}
+.pagination-item {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
