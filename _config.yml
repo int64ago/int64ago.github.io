@@ -39,3 +39,5 @@ permalink:    pretty
 paginate:     8
 sass:
   compressed: true
+gems:
+  - jekyll-sitemap
