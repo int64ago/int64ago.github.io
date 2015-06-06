@@ -5,16 +5,13 @@ permalink: /about/
 aboutme: true
 ---
 
-地道程序猿一只，喜欢捣鼓、喜欢折腾
-前前后后弄过后端、前端、客户端、运维、安全、算法等相关东西
-惭愧至今没有一样是精通的
-年轻嘛，还是多学点多接触点比较好
+在『全干攻城狮』的路上……
 
 
 个人项目
 ---
 
-- <a href="http://getlink.sinaapp.com/" target="_blank">Get Link! 图片外链</a> | <a href="https://github.com/int64ago/getlink" target="_blank" title="源码"><i class="fa fa-external-link-square"></i></a>
+- <a href="http://getlink.int64ago.org/" target="_blank">Get Link! 图片外链</a> | <a href="https://github.com/int64ago/getlink" target="_blank" title="源码"><i class="fa fa-external-link-square"></i></a>
 - <a href="https://chrome.google.com/webstore/detail/anti-riverside/ibkmcelpnaphiomdbchfabhlijlgedbi" target="_blank">Anti Riverside 学校论坛chrome插件</a> | <a href="https://github.com/int64ago/AntiRiverside" target="_blank" title="源码"><i class="fa fa-external-link-square"></i></a>
 - <a href="http://secloud.int64ago.org/" target="_blank">SECloud个人安全网盘</a> | <a href="https://github.com/int64ago/secloud" target="_blank" title="源码"><i class="fa fa-external-link-square"></i></a>
 - <a href="http://cdn.int64ago.org/" target="_blank">静态JS/CSS公共CDN</a> | <a href="https://github.com/int64ago/cdn" target="_blank" title="源码"><i class="fa fa-external-link-square"></i></a>
