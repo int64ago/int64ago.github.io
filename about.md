@@ -2,10 +2,12 @@
 layout: page
 title: 关于我
 permalink: /about/
-aboutme: true
+aboutme: false
 ---
 
 在『全干攻城狮』的路上……
+<a class="fa fa-github" href="https://github.com/int64ago" target="_blank"></a>
+<a class="fa fa-envelope" href="mailto:int64ago@gmail.com"></a>
 
 
 个人项目
