@@ -35,5 +35,5 @@ done
 
   [1]: http://www.exploit-db.com/google-dorks/
   [2]: http://www.hackersforcharity.org/ghdb/
-  [3]: http://int64ago.qiniudn.com/ghdb_sql
+  [3]: https://dn-getlink.qbox.me/ghdb_sql
   [4]: http://sqlmap.org/
