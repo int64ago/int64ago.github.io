@@ -6,7 +6,7 @@ aboutme: false
 ---
 
 在『全干攻城狮』的路上……
-<a class="fa fa-github" href="https://github.com/int64ago" target="_blank"></a> <a class="fa fa-envelope" href="mailto:i@int64ago.in"></a>
+<a class="fa fa-github" href="https://github.com/int64ago" target="_blank"></a> <a class="fa fa-envelope" href="mailto:i@int64ago.org"></a>
 
 
 个人项目
