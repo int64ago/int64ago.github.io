@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "https://int64ago.org"
 enforce_ssl: "int64ago.org"
 
-duoshuo: int64ago
+#duoshuo: int64ago
 
 # Google analytics
 google_analytics:
