@@ -92,8 +92,8 @@ guest上运行qemu-ga.exe，host上运行qga_rpc.py，然后运行rpc_client.py�
 ```
 
 rpc_client.py是python写的xmlrpc-client，当然可以用java等实现，可以用于ovirt/openstack上用于监控
-  [1]: http://192.168.1.1:4000/2014/07/20/QGA-qemu-guest-agent-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/
-  [2]: http://int64ago.qiniudn.com/diff.patch
+  [1]: https://int64ago.org/2014/07/20/QGA-qemu-guest-agent-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/
+  [2]: https://dn-getlink.qbox.me/diff.patch
   [3]: http://wiki.qemu.org/Features/QAPI/GuestAgent
   [4]: http://wiki.libvirt.org/page/Qemu_guest_agent
-  [5]: http://int64ago.qiniudn.com/BaiduShurufa_2014-7-23_14-59-14.png
+  [5]: https://dn-getlink.qbox.me/BaiduShurufa_2014-7-23_14-59-14.png

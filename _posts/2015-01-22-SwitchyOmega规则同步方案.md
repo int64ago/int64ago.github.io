@@ -34,4 +34,4 @@ tags:       杂
   [2]: https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm
   [3]: https://github.com/FelisCatus/SwitchyOmega/wiki/SwitchyOmega-%E6%96%B0%E5%8A%9F%E8%83%BD
   [4]: https://github.com/FelisCatus/SwitchyOmega/issues/7
-  [5]: http://int64ago.qiniudn.com/o_19c91n3akuhs1m8aut1qt01upq9.png
+  [5]: https://dn-getlink.qbox.me/o_19c91n3akuhs1m8aut1qt01upq9.png

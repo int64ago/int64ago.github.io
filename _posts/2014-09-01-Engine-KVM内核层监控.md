@@ -25,7 +25,7 @@ tags:       虚拟化
 
 先就一幅图了解下大概结构：
 
-![](http://int64ago.qiniudn.com/2014/09/01/e32076ab-31b2-11e4-a482-f590086d082a.png)
+![](https://dn-getlink.qbox.me/2014/09/01/e32076ab-31b2-11e4-a482-f590086d082a.png)
 
 N_KERNEL是通过netlink作为桥梁连接内核和用户空间
 
