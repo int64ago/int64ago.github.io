@@ -51,15 +51,6 @@ body {
   -webkit-box-sizing: border-box;
 }
 
-.gist,
-.gist .highlight .p {
-  font-size: .75rem;
-}
-
-.gist .lines {
-  width: 100%;
-}
-
 .site-header a {
   font-weight: bold;
   font-size: 2rem;
@@ -272,16 +263,9 @@ code {
 }
 
 pre {
-  padding: 1.125em;
   font-size: 1rem;
   line-height: 1.11;
-  overflow-x: scroll;
   margin-bottom: 0.88em;
-}
-
-.highlight .p {
-  font-size: 1.125rem;
-  line-height: 1;
 }
 
 blockquote {
@@ -299,6 +283,7 @@ blockquote:before {
   margin-right: 0.25em;
   vertical-align: -0.4em;
 }
+
 blockquote p {
   display: inline;
 }
@@ -579,4 +564,24 @@ Copyright (c) 2014 Daniel Eden
     padding-bottom: 6px;
     padding-left: 20px;
     padding-right: 20px;
+}
+
+hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 3px solid #ddd;
+}
+
+hr:before {
+  display: table;
+  content: "";
+}
+
+hr:after {
+  display: table;
+  clear: both;
+  content: "";
 }
