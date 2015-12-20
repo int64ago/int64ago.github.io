@@ -24,6 +24,9 @@ html, body {
 img {
   width: auto;
   max-width: 100%;
+  box-shadow: 10px 10px 40px -8px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 40px -8px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 10px 10px 40px -8px rgba(0,0,0,0.75);
 }
 
 .site-wrap {
@@ -282,17 +285,22 @@ pre {
 }
 
 blockquote {
-  padding: 1.33em;
-  font-style: italic;
-  border-left: 5px solid #7a7a7a;
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
 }
-
-blockquote footer {
-  font-size: .85rem;
-  font-style: normal;
-  background-color: #fff;
-  color: #7a7a7a;
-  border-color: transparent;
+blockquote:before {
+  color: #ccc;
+  content: "\201C";
+  font-size: 2em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
 }
 
 h1,
