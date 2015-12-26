@@ -10,7 +10,7 @@ enforce_ssl: "int64ago.org"
 #duoshuo: int64ago
 
 # Google analytics
-google_analytics:
+google_analytics: UA-46698359-1
 
 # Optional features
 animated:           true
