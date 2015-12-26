@@ -32,7 +32,7 @@ size=10
 
 发送到agent端，agent解析后，获取桌面路径，在桌面创建了name所描述的文件，问题就在于`g_key_file_to_data()`获得的序列是UTF-8编码，而创建函数却用了`CreateFileA()`，然后你懂的，下面分别为中文和英文系统显示的情况：
 
-![](https://dn-getlink.qbox.me/2014/08/10/5d37e86b-1ff2-11e4-8bf4-4f12170170a3.jpg)
+![](https://dn-getlink.qbox.me/5d37e86b-1ff2-11e4-8bf4-4f12170170a3.jpg)
 
 跟系统的语言还是有关系的
 那么只需要把multichar 转为 widechar即可，

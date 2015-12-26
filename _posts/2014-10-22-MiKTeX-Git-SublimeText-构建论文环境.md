@@ -56,7 +56,7 @@ git_command:git.exe全路径
 
 初期效果图：
 
-![](https://dn-getlink.qbox.me/2014/10/23/abfddb4c-5a07-11e4-8e89-e9fb64110075.png)
+![](https://dn-getlink.qbox.me/abfddb4c-5a07-11e4-8e89-e9fb64110075.png)
 
 
   [1]: http://miktex.org/
