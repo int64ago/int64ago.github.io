@@ -12,12 +12,12 @@ aboutme: false
 个人作品
 ---
 
-- <a href="https://get-link.xyz/" target="_blank">Get Link! 图床应用</a> | <a href="https://github.com/int64ago/getlink" target="_blank" title="源码"><i class="fa fa-github"></i></a>
-- <a href="https://mdnote.xyz/" target="_blank">MDNote - A cloud notepad</a> | <a href="https://github.com/int64ago/mdnote" target="_blank" title="源码"><i class="fa fa-github"></i></a>
-- <a href="https://goo.gl/S7YxOS" target="_blank">Chrome Extension for Get Link!</a> | <a href="https://github.com/int64ago/getlink-extension" target="_blank" title="源码"><i class="fa fa-github"></i></a>
-- <a href="https://goo.gl/hDNliA" target="_blank">Anti Riverside (Chrome Extension for BBS of UESTC)</a> | <a href="https://github.com/int64ago/AntiRiverside" target="_blank" title="源码"><i class="fa fa-github"></i></a>
-- <a href="http://secloud.xyz/" target="_blank">SECloud 个人安全网盘</a> | <a href="https://github.com/int64ago/secloud" target="_blank" title="源码"><i class="fa fa-github"></i></a>
-- <a href="https://goo.gl/XyqOrm" target="_blank">Qiniu 4 cdnjs (Chrome Extension)</a> | <a href="https://github.com/int64ago/cdnjs-extension" target="_blank" title="源码"><i class="fa fa-github"></i></a>
+- <a href="https://get-link.xyz/" target="_blank">Get Link! - The simplest way to get the link!</a> | <a href="https://github.com/int64ago/getlink" target="_blank"><i class="fa fa-github"></i></a>
+- <a href="https://mdnote.xyz/" target="_blank">MDNote - A cloud notepad</a> | <a href="https://github.com/int64ago/mdnote" target="_blank"><i class="fa fa-github"></i></a>
+- <a href="https://goo.gl/S7YxOS" target="_blank">Chrome Extension for Get Link!</a> | <a href="https://github.com/int64ago/getlink-extension" target="_blank"><i class="fa fa-github"></i></a>
+- <a href="https://goo.gl/hDNliA" target="_blank">Anti Riverside (Chrome Extension for BBS of UESTC)</a> | <a href="https://github.com/int64ago/AntiRiverside" target="_blank"><i class="fa fa-github"></i></a>
+- <a href="http://secloud.xyz/" target="_blank">SECloud - Personal cloud drive focusing on security && safety</a> | <a href="https://github.com/int64ago/secloud" target="_blank"><i class="fa fa-github"></i></a>
+- <a href="https://goo.gl/XyqOrm" target="_blank">Qiniu 4 cdnjs (Chrome Extension)</a> | <a href="https://github.com/int64ago/cdnjs-extension" target="_blank"><i class="fa fa-github"></i></a>
 - <a href="https://goo.gl/Nixn8c" target="_blank">Force Yahei Plus (Chrome Extension)</a>
 
 个人书单
