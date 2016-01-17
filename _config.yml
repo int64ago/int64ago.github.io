@@ -5,7 +5,6 @@ author:      Cody Chan
 description: "程序猿__int64Ago -- Keep It Simple, Stupid!"
 baseurl:     ""
 url:         "https://int64ago.org"
-enforce_ssl: "int64ago.org"
 
 #duoshuo: int64ago
 
