@@ -9,7 +9,7 @@ url:         "https://int64ago.org"
 #duoshuo: int64ago
 
 # Google analytics
-google_analytics: UA-46698359-1
+google_analytics:
 
 # Optional features
 animated:           true
