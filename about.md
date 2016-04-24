@@ -17,7 +17,7 @@ aboutme: false
 - <a href="https://302.at" target="_blank">302@ - A Cool URL Shortener</a> | <a href="https://github.com/int64ago/302.at" target="_blank"><i class="fa fa-github"></i></a>
 - <a href="https://goo.gl/S7YxOS" target="_blank">Chrome Extension for Get Link!</a> | <a href="https://github.com/int64ago/getlink-extension" target="_blank"><i class="fa fa-github"></i></a>
 - <a href="https://goo.gl/hDNliA" target="_blank">Anti Riverside (Chrome Extension for BBS of UESTC)</a> | <a href="https://github.com/int64ago/AntiRiverside" target="_blank"><i class="fa fa-github"></i></a>
-- <a href="http://secloud.xyz/" target="_blank">SECloud - Personal cloud drive focusing on security && safety</a> | <a href="https://github.com/int64ago/secloud" target="_blank"><i class="fa fa-github"></i></a>
+- <a href="http://secloud.xyz/" target="_blank">[DEPRECATED]SECloud - Personal cloud drive focusing on security && safety</a> | <a href="https://github.com/int64ago/secloud" target="_blank"><i class="fa fa-github"></i></a>
 - <a href="https://goo.gl/XyqOrm" target="_blank">Qiniu 4 cdnjs (Chrome Extension)</a> | <a href="https://github.com/int64ago/cdnjs-extension" target="_blank"><i class="fa fa-github"></i></a>
 - <a href="https://goo.gl/Nixn8c" target="_blank">Force Yahei Plus (Chrome Extension)</a>
 
