@@ -33,8 +33,6 @@ flattr_button:
 
 # Build settings
 markdown:     kramdown
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data', 'autolink', 'hard_wrap']
 permalink:    pretty
 paginate:     8
 sass:
