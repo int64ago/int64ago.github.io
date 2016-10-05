@@ -3,7 +3,6 @@ layout:     post
 title:      白帽子第一课：Google Hacking
 date:       2013-12-31 09:00:00
 summary:    Google 强大的爬虫提供的不仅仅是关键词搜索的结果，稍微加点参数就能把google发挥的淋漓尽致，而这也是非常简单的，所以google hacking 也叫 google dorks，因此这应该是白帽子学习的第一种技能！
-tags:       安全
 ---
 
 Google 强大的爬虫提供的不仅仅是关键词搜索的结果，稍微加点参数就能把google发挥的淋漓尽致，而这也是非常简单的，所以google hacking 也叫 google dorks，因此这应该是白帽子学习的第一种技能！

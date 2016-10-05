@@ -3,7 +3,6 @@ layout:     post
 title:      QGA(qemu guest agent)扩展实例
 date:       2014-07-23 09:00:00
 summary:    上次讲了[QGA(qemu guest agent)源码分析][1]，这次以一个实例说明下，没有理论的东西，不过有些细节要注意，我们以获取进程列表为例说明
-tags:       虚拟化
 ---
 
 上次讲了[QGA(qemu guest agent)源码分析][1]，这次以一个实例说明下，没有理论的东西，不过有些细节要注意，我们以获取进程列表为例说明

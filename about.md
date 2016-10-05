@@ -2,7 +2,6 @@
 layout: page
 title: 关于我
 permalink: /about/
-aboutme: false
 ---
 
 在『全干攻城狮』的路上……

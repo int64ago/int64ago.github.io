@@ -3,7 +3,6 @@ layout:     post
 title:      Engine<--->KVM内核层监控
 date:       2014-09-01 09:00:00
 summary:    这里的Engine指的是云管理引擎，如Ovirt/Openstack等；另外，不仅仅为了监控KVM，稍加更改也可应用到Xen等虚拟化框架上
-tags:       虚拟化
 ---
 
 这里的Engine指的是云管理引擎，如Ovirt/Openstack等；另外，不仅仅为了监控KVM，稍加更改也可应用到Xen等虚拟化框架上

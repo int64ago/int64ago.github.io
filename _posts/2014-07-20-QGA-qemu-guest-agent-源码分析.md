@@ -3,7 +3,6 @@ layout:     post
 title:      QGA(qemu guest agent)源码分析
 date:       2014-07-20 09:00:00
 summary:    qga目前是qemu的一部分，用于guest和host通信，因为qga在guest里仅仅是一个平常的进程（服务），所以，理论上，任何拥有guest机器**管理员/root**权限的人都可以终止它！因此，最好不要将这个作为关键技术的一部分，不过用于增强geust的友好性体验还是很不错的
-tags:       虚拟化
 ---
 
 qga目前是qemu的一部分，用于guest和host通信，因为qga在guest里仅仅是一个平常的进程（服务），所以，理论上，任何拥有guest机器**管理员/root**权限的人都可以终止它！因此，最好不要将这个作为关键技术的一部分，不过用于增强geust的友好性体验还是很不错的。

@@ -3,7 +3,6 @@ layout:     post
 title:      dnscrypt+dnsmasq构建防污染DNS缓存服务器
 date:       2014-08-14 09:00:00
 summary:    不能正常上网让我整个人都不好了……自定义DNS好处多多
-tags:       杂
 ---
 
 

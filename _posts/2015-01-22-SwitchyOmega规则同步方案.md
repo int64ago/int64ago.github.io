@@ -3,7 +3,6 @@ layout:     post
 title:      SwitchyOmega规则同步方案
 date:       2015-01-22 22:49:00
 summary:    针对个人多台设备需要同步科学上网列表的情况
-tags:       杂
 ---
 
 [SwitchyOmega][1]是之前掉渣天的[SwitchySharp][2]重构版
