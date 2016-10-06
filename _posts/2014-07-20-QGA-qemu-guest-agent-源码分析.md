@@ -18,7 +18,7 @@ qga目前是qemu的一部分，用于guest和host通信，因为qga在guest里�
 输出目录为`qemu/qga/qapi-generated/`
 
 主要产生规则:
-a)如果是变量类型XXOO，则会生成下面2个类型和5个对应操作实例
+ - 如果是变量类型XXOO，则会生成下面2个类型和5个对应操作实例
 
 ```
 XXOO     //用于返回单个值
@@ -31,7 +31,7 @@ qapi_free_XXOOList
 visit_type_XXOO_fields
 ```
 
-b)如果是函数类型，则会生成如下函数:
+ - 如果是函数类型，则会生成如下函数:
 
 ```
 qmp_marshal_output_xxoo
