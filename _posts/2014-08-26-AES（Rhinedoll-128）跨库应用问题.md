@@ -9,8 +9,8 @@ summary:    AES算是标准加密算法了，跟计算机有关的应该都接�
 
 以上修改自[wiki][1]
 
-
 ----------
+
 对于这个算法的底层的细节我也没能力研究，不过框架可以用一个图来说明：
 
 ![](https://dn-getlink.qbox.me/9119f97a-2cd1-11e4-a160-31fb6a356569.png)
@@ -29,9 +29,13 @@ summary:    AES算是标准加密算法了，跟计算机有关的应该都接�
 ----
 
 以openssl为例
+
 `echo "helloworld" | openssl enc -aes-128-cbc -nosalt -pass pass:password`
+
 得到的结果为：
+
 `0000000: fa7d d88c 8f9d d990 ffac 557a 69ae 0a82`
+
 注意这里的pass字段，很多实现都是限制密码长度为16bytes(=128bits)的，但是这里却没有限制，其实，这里的pass并不是真正的密钥，真正的密钥是key，而且还要结合初始化向量iv，这两个会由pass生成：
 
 ```
