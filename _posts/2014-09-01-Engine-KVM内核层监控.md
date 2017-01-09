@@ -24,7 +24,7 @@ summary:    这里的Engine指的是云管理引擎，如Ovirt/Openstack等；�
 
 先就一幅图了解下大概结构：
 
-![](https://dn-getlink.qbox.me/e32076ab-31b2-11e4-a482-f590086d082a.png)
+![](https://cdn.int64ago.org/e32076ab-31b2-11e4-a482-f590086d082a.png)
 
 N_KERNEL是通过netlink作为桥梁连接内核和用户空间
 

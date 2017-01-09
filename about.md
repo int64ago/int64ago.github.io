@@ -24,4 +24,4 @@ permalink: /about/
 
 2015-12-28 更新
 
-![](https://dn-getlink.qbox.me/22m7gwlv7vi.png)
+![](https://cdn.int64ago.org/22m7gwlv7vi.png)
