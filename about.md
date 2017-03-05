@@ -4,11 +4,11 @@ title: 关于我
 permalink: /about/
 ---
 
-自诩一枚『全干攻城狮』，还有很多事等着去做……
+不要轻易用某一领域技能给自己打标签，还有很多有意思的事等着去做。
+
+<a href="https://github.com/int64ago" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a> <a href="https://twitter.com/ing64ago" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 
 
 ## 个人书单
 
- > 2015-12-28 更新
-
-![](https://cdn.int64ago.org/22m7gwlv7vi.png)
+![](https://cdn.int64ago.org/stpsdhwpgaqmok6l8h69a4i.png)
