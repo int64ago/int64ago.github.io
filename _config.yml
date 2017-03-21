@@ -6,8 +6,6 @@ description: "程序猿__int64Ago -- Keep It Simple, Stupid!"
 baseurl:     ""
 url:         "https://int64ago.org"
 
-animated:           true
-disqus_shortname: int64ago
 
 # Build settings
 markdown:     kramdown
