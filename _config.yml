@@ -1,8 +1,8 @@
 # Site settings
-title:       程序猿__int64Ago
+title:       Cody's blog
 email:       int64ago@gmail.com
 author:      Cody Chan
-description: "程序猿__int64Ago -- Keep It Simple, Stupid!"
+description: "Cody's blog -- Keep It Simple, Stupid!"
 baseurl:     ""
 url:         "https://int64ago.org"
 
