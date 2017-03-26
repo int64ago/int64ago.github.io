@@ -8,11 +8,11 @@ url:         "https://int64ago.org"
 
 
 # Build settings
-markdown:     kramdown
+markdown: kramdown
 kramdown:
   input: GFM
-permalink:    pretty
-paginate:     8
+permalink: pretty
+paginate: 8
 sass:
   compressed: true
 gems:
