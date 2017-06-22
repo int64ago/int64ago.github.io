@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      图解 ArrayBuffers 和 SharedArrayBuffers
+title:      🔡图解 ArrayBuffers 和 SharedArrayBuffers
 date:       2017-06-21
 summary:    图解 SharedArrayBuffers 系列的第二篇
 ---

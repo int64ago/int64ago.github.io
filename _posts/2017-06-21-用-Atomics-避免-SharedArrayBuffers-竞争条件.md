@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      用 Atomics 避免 SharedArrayBuffers 竞争条件
+title:      🔡用 Atomics 避免 SharedArrayBuffers 竞争条件
 date:       2017-06-21
 summary:    图解 SharedArrayBuffers 系列的第三篇
 ---
