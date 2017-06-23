@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      dnscrypt+dnsmasq构建防污染DNS缓存服务器
+title:      dnscrypt+dnsmasq 构建防污染 DNS 缓存服务器
 date:       2014-08-14 09:00:00
-summary:    不能正常上网让我整个人都不好了……自定义DNS好处多多
+summary:    不能正常上网让我整个人都不好了……自定义 DNS 好处多多
 ---
 
 

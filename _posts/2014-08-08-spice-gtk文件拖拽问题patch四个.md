@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      spice-gtk文件拖拽问题patch四个
+title:      spice-gtk 文件拖拽问题 Patch 四个
 date:       2014-08-08 09:00:00
-summary:    spice-gtk对于文件拖拽有几个小问题，针对这些问题提供分析及相关patch
+summary:    spice-gtk 对于文件拖拽有几个小问题，针对这些问题提供分析及相关 Patch
 ---
 
 spice-gtk对于文件拖拽有几个小问题：

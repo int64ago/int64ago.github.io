@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      QGA(qemu guest agent)扩展实例
+title:      QGA(qemu guest agent) 扩展实例
 date:       2014-07-23 09:00:00
 summary:    上次讲了[QGA(qemu guest agent)源码分析][1]，这次以一个实例说明下，没有理论的东西，不过有些细节要注意，我们以获取进程列表为例说明
 ---
@@ -91,6 +91,7 @@ guest上运行qemu-ga.exe，host上运行qga_rpc.py，然后运行rpc_client.py�
 ```
 
 rpc_client.py是python写的xmlrpc-client，当然可以用java等实现，可以用于ovirt/openstack上用于监控
+
   [1]: https://int64ago.org/2014/07/20/QGA-qemu-guest-agent-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/
   [2]: https://cdn.int64ago.org/diff.patch
   [3]: http://wiki.qemu.org/Features/QAPI/GuestAgent

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      SwitchyOmega规则同步方案
+title:      SwitchyOmega 规则同步方案
 date:       2015-01-22 22:49:00
 summary:    针对个人多台设备需要同步科学上网列表的情况
 ---

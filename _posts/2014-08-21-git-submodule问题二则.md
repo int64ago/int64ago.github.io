@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      git submodule问题二则
+title:      git submodule 问题二则
 date:       2014-08-21 09:00:00
-summary:    很多时候正是看似等价的东西坑了自己，git submodule的一些概念不清发生的错，记下排错过程
+summary:    很多时候正是看似等价的东西坑了自己，git submodule 的一些概念不清发生的错，记下排错过程
 ---
 
 前一段时间又把[pro git][1]完整看了一遍，结合平时用到的项目，发现git submodule这东西确实强大，用依赖解决问题貌似是现在主流且优雅的做法：
